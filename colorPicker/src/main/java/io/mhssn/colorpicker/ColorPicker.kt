@@ -191,7 +191,7 @@ fun ColorPickerDialog(
                             },
                             shape = RoundedCornerShape(50)
                         ) {
-                            Text(text = "Select")
+                            Text(text = "انتخاب")
                         }
                     }
                 }
